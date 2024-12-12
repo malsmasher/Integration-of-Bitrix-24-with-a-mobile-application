@@ -19,7 +19,8 @@ Postman, JSON, Google Sheets
 ## Результаты:<br>
 + Написано 28 тест-кейсов для проверок корректной обработки POST-запроса при разных условиях
   
-![01](https://github.com/user-attachments/assets/c2b1ac71-92ac-4ac0-ac9b-029c6d22a28b)
+![Тест-кейс и проверки API Nedvex 12 12 - Тест-кейсы_page-0002](https://github.com/user-attachments/assets/37a8baa4-cdda-4cd6-9bd8-e9edd5a46bd7)
+
 
 + В процессе тестирования было найдено 7 багов
 + В процессе тестирования были доработаны требования к разработке
